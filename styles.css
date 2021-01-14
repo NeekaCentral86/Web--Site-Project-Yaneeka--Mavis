@@ -1,0 +1,43 @@
+h1 {
+    color: #386641;
+    border: 2px solid #a5a58d;
+    background-color: #a5a58d;
+    padding: 2px;
+    margin: 2px;
+    font-family: Garamond, serif;
+}
+
+.bubba {
+    text-align: center;
+}
+
+.tupac {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.tupac {
+    background-color: #cb997e;
+    border: 1px solid #cb997e;
+    padding: 2px;
+    margin: 2px;
+}
+
+.item1 {
+    border: 1px solid #ddbea9;
+    padding: 1px;
+    margin: 1px;
+    background-color: #ddbea9;
+}
+
+
+body {
+    background-image:
+        url(https://wallpaperaccess.com/full/1134714.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
